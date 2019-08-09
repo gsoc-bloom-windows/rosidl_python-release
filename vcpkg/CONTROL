@@ -1,0 +1,4 @@
+Source: ros-dashing-rosidl-generator-py
+Version: 0.7.7
+Description: Generate the ROS interfaces in Python.
+Build-Depends:
